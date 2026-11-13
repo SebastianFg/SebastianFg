@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Sebastian Fernandes de Guimaraes — Senior Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7ee787"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363d"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- terminal window -->
+  <rect x="60" y="34" width="700" height="232" rx="12" fill="#010409" stroke="#30363d"/>
+  <rect x="60" y="34" width="700" height="34" rx="12" fill="#161b22"/>
+  <rect x="60" y="56" width="700" height="12" fill="#161b22"/>
+  <circle cx="84" cy="51" r="6" fill="#ff5f56"/>
+  <circle cx="104" cy="51" r="6" fill="#ffbd2e"/>
+  <circle cx="124" cy="51" r="6" fill="#27c93f"/>
+  <text x="410" y="56" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">~/SebastianFg — zsh</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" xml:space="preserve">
+    <text x="84" y="104"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
+    <text x="84" y="142" font-size="30" font-weight="700" fill="url(#name)" font-family="Segoe UI, Helvetica, Arial, sans-serif">Sebastian Fernandes de Guimaraes</text>
+    <text x="84" y="178"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~</tspan><tspan fill="#c9d1d9"> cat role.txt</tspan></text>
+    <text x="84" y="206" fill="#d2a8ff">Senior Full-Stack Developer · 7+ yrs · Argentina</text>
+    <text x="84" y="242"><tspan fill="#7ee787">➜</tspan><tspan fill="#58a6ff"> ~</tspan><tspan fill="#c9d1d9"> </tspan><tspan fill="#c9d1d9">▋</tspan></text>
+  </g>
+
+  <!-- stack chips -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" text-anchor="middle">
+    <text x="985" y="62" fill="#8b949e" font-size="13" letter-spacing="3">STACK</text>
+    <rect x="815" y="80" width="160" height="36" rx="18" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.5"/>
+    <text x="895" y="103" fill="#79c0ff">React · Next</text>
+    <rect x="995" y="80" width="160" height="36" rx="18" fill="#58a6ff" fill-opacity="0.12" stroke="#58a6ff" stroke-opacity="0.5"/>
+    <text x="1075" y="103" fill="#79c0ff">Angular</text>
+    <rect x="815" y="128" width="160" height="36" rx="18" fill="#ff7b72" fill-opacity="0.12" stroke="#ff7b72" stroke-opacity="0.5"/>
+    <text x="895" y="151" fill="#ffa198">NestJS</text>
+    <rect x="995" y="128" width="160" height="36" rx="18" fill="#d2a8ff" fill-opacity="0.12" stroke="#d2a8ff" stroke-opacity="0.5"/>
+    <text x="1075" y="151" fill="#d2a8ff">Laravel</text>
+    <rect x="815" y="176" width="160" height="36" rx="18" fill="#7ee787" fill-opacity="0.12" stroke="#7ee787" stroke-opacity="0.5"/>
+    <text x="895" y="199" fill="#7ee787">Capacitor</text>
+    <rect x="995" y="176" width="160" height="36" rx="18" fill="#ffa657" fill-opacity="0.12" stroke="#ffa657" stroke-opacity="0.5"/>
+    <text x="1075" y="199" fill="#ffa657">Kafka · Redis</text>
+    <text x="985" y="250" fill="#6e7681" font-size="13">US healthcare · edtech · gov</text>
+  </g>
+</svg>
