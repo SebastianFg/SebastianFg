@@ -20,6 +20,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 
+<div align="justify">
+
 > Full-stack developer with **7+ years** building web and mobile apps for US companies (healthcare, education, digital marketing) and the public sector. I work across React, Angular, Node.js/NestJS and Laravel — from microservices and payment integrations to hybrid mobile apps in the stores — and I lead multidisciplinary teams. AI is part of my daily workflow (Claude, Spec-Driven Development). **HIPAA certified.** Based in Misiones, Argentina · remote with US teams.
 
 ## What I work on
@@ -41,6 +43,8 @@
 **[Medical Appointments System](https://github.com/SebastianFg/cmb-fe)** — full-stack app for a medical center, built for my degree at UGD.
 [`cmb-fe`](https://github.com/SebastianFg/cmb-fe): React 19 + TypeScript + Vite, role-based routing, TanStack Query, Zod, Jest with an 80/85% coverage gate, E2E tests, Dockerized with Nginx.
 [`cmb-be`](https://github.com/SebastianFg/cmb-be): Laravel 13 + PostgreSQL versioned REST API, Sanctum auth, Pest tests, fully Dockerized. Both repos are set up for AI agents (Claude skills, `AGENTS.md`, MCP).
+
+</div>
 
 ## Toolbox
 
